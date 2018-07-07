@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1089567712500",
+    "firebase_url": "https://findyourhall-61731.firebaseio.com",
+    "project_id": "findyourhall-61731",
+    "storage_bucket": "findyourhall-61731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089567712500:android:b63030ab99fd587f",
+        "android_client_info": {
+          "package_name": "findyourhall.findyourhall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089567712500-vhpf3e9llaq3cm83cupcrg0ggamppff0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "findyourhall.findyourhall",
+            "certificate_hash": "e1e35274e2c787febef0fe470de5ded782172dbb"
+          }
+        },
+        {
+          "client_id": "1089567712500-98emg7u278sfbvkucjp8hba42us4ta25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxSXYXsArcjwsGwHaGs05UrY8qZ3nTdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089567712500-98emg7u278sfbvkucjp8hba42us4ta25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
