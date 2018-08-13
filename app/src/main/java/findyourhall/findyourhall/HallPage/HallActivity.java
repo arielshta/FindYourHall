@@ -19,9 +19,9 @@ public class HallActivity extends AppCompatActivity
         setContentView(R.layout.activity_hall);
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tablayout);
-        tabLayout.addTab(tabLayout.newTab().setText("DescriptionFragment"));
+        tabLayout.addTab(tabLayout.newTab().setText("תיאור"));
 //        tabLayout.addTab(tabLayout.newTab().setText("ReviewFragment"));
-        tabLayout.addTab(tabLayout.newTab().setText("HallPicturesFragment"));
+        tabLayout.addTab(tabLayout.newTab().setText("תמונות"));
         tabLayout.setTabGravity(TabLayout.GRAVITY_FILL);
 
         final ViewPager viewPager = (ViewPager) findViewById(R.id.pager);

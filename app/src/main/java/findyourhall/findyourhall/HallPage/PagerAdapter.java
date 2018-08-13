@@ -21,7 +21,7 @@ public class PagerAdapter extends FragmentStatePagerAdapter {
 //            case 1:
 //                ReviewFragment reviewFragment = new ReviewFragment();
 //                return reviewFragment;
-            case 2:
+            case 1:
                 HallPicturesFragment hallPicturesFragment = new HallPicturesFragment();
                 return hallPicturesFragment;
             default:
